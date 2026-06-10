@@ -18,6 +18,8 @@ def build_frozenlake_env(map_name=None, custom_map=None, render_mode=None):
     if map_name is not None and custom_map is not None:
         raise ValueError("map_name 和 custom_map 不能同时传入，请二选一。")
 
+
+#test
     if custom_map is not None:
         env = gym.make(
             "FrozenLake-v1",
