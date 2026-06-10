@@ -1,0 +1,7 @@
+name: FrozenLake 12x12
+avg_reward: 1.000000
+success_rate: 1.000000
+avg_steps: 81.131000
+q_table: d:\Research_RL\Trial\3_27\run\frozenlake_12x12_q_table.npy
+history: d:\Research_RL\Trial\3_27\run\frozenlake_12x12_training_history.csv
+policy: d:\Research_RL\Trial\3_27\run\frozenlake_12x12_policy.txt

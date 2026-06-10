@@ -1,0 +1,7 @@
+name: FrozenLake 8x8
+avg_reward: 0.908000
+success_rate: 0.908000
+avg_steps: 92.786000
+q_table: d:\Research_RL\Trial\3_27\run\frozenlake_8x8_q_table.npy
+history: d:\Research_RL\Trial\3_27\run\frozenlake_8x8_training_history.csv
+policy: d:\Research_RL\Trial\3_27\run\frozenlake_8x8_policy.txt
